@@ -20,6 +20,9 @@ From this mini-project, I was able to strengthen my understanding of how Event L
 
 You can find the deployed app by clicking [HERE](https://ayaneey.github.io/Expanding-Cards/)
 
+![Expanding Cards](https://user-images.githubusercontent.com/108099259/195821791-74c2bccc-fd87-4a57-b40e-b77652979584.png)
+
+
 ## GitHub
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
